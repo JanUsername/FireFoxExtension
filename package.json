@@ -1,0 +1,9 @@
+{
+  "name": "firefoxextension",
+  "title": "FirefoxExtension",
+  "id": "jid1-EKx6mgIozytS5g",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
